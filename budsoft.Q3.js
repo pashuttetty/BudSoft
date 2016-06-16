@@ -6,7 +6,7 @@ Array.prototype.sumItems = function(){
   
   return(sum);
 }
-
+//creating arrays to test the code
 var arr = new Array;
 arr = [5,10];
 arr.push(50);
